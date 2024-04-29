@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avishkar Singh</h1>
+<h1 align="center">Hi 👋, I'm Aman (Avishkar) Singh</h1>
 <h3 align="center">A full stack software developer with over 3 year of work experience.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/iamavishkar](https://github.com/iamavishkar)
